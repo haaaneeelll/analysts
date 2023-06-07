@@ -157,7 +157,6 @@ git push -u origin main
 축하드립니다. vs code를 통해 
 첫 커밋이 완성되었습니다.
 
-아 그런데 어렵다. 깃.. pull, clone은 내일 배우는데 ..ㅠ
 
 
 
